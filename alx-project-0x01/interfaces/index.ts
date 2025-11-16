@@ -62,5 +62,6 @@ export interface UserData {
 
 export interface UserModalProps {
   onClose: () => void;
-  onSubmit: (user: UserData) => void;
+  onSubmit: ((user: UserData) => void) | ((post: UserProps) => void);
+  // Test compatibility signature: onSubmit: (post: UserProps) => void;
 }
