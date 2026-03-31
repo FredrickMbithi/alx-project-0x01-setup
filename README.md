@@ -2,7 +2,7 @@
 
 Advanced CSS exercises focusing on modern styling techniques and responsive design.
 
-## 📚 Project Overview
+## Project Overview
 
 This repository contains CSS styling exercises covering:
 - Advanced selectors and specificity
@@ -11,7 +11,7 @@ This repository contains CSS styling exercises covering:
 - Responsive design patterns
 - CSS preprocessors (if applicable)
 
-## 🎯 Learning Objectives
+## Learning Objectives
 
 - Master CSS selectors and combinators
 - Build responsive layouts with Flexbox and Grid
@@ -19,14 +19,14 @@ This repository contains CSS styling exercises covering:
 - Optimize CSS for performance
 - Follow BEM or other CSS methodologies
 
-## 🚀 Getting Started
+## Getting Started
 
 ```bash
 cd alx-project-0x01
 # Open any HTML file in browser to see styled components
 ```
 
-## 📖 Skills Demonstrated
+## Skills Demonstrated
 
 - CSS specificity and cascade
 - Modern layout techniques
